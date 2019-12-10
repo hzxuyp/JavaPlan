@@ -17,6 +17,22 @@
   * [process 在线的比较方便](https://www.processon.com/)
   * [Navicat 比mysql官方的好用一点](https://www.navicat.com.cn/)
 
+## 论坛网站
+  * [英语好的，推荐StackOverFlow](http://stackoverflow.com/) 
+  * [CSDN的广告确实多了点，不过历史积累资源雄厚](https://www.csdn.net/) 
+  * [博客园的页面干净很多，资源也不错](http://www.cnblogs.com/) 
+  * [开源中国发展的还不错的](https://www.oschina.net/) 
+  * [v2ex也挺热闹的](https://www.v2ex.com/) 
+  * [segmentfault 有点小清新](https://segmentfault.com/)
+  * [掘金也是一个不错的选择](https://juejin.im/)
+  
+## 文档大全
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+
 ## Java
 
 ### 视频教程
