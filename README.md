@@ -4,7 +4,7 @@
 ## Java
 
 ### 基础知识
-  #### [菜鸟教程系列](https://www.runoob.com/java/java-tutorial.html)
+  * [菜鸟教程系列](https://www.runoob.com/java/java-tutorial.html)
 
 ### 编程规范
   阿里巴巴编程规范
