@@ -1,54 +1,54 @@
 # JavaPlan
 整理一份Java开发和面试常用知识点清单，不断更新完善
 
-##Java
+## Java
 
-###基础知识
+### 基础知识
 
-###编程规范
+### 编程规范
 
-###容器详解
+### 容器详解
 
-###并发编程
+### 并发编程
 
-###netty
-
-
-###JVM知识
+### netty
 
 
-
-###设计模式
-
-###Spring
-
-###Spring Boot
-
-###Spring Cloud
-
-###Mybatis
+### JVM知识
 
 
 
-###Java面试
+### 设计模式
 
-##Linux
+### Spring
 
-##网络编程
+### Spring Boot
 
-##数据结构
+### Spring Cloud
 
-
-#算法
-
-
-##数据库
-
-###MySql
-
-###Redis
+### Mybatis
 
 
-##面试
+
+### Java面试
+
+## Linux
+
+## 网络编程
+
+## 数据结构
+
+
+## 算法
+
+
+## 数据库
+
+### MySql
+
+### Redis
+
+
+## 面试
 
 
