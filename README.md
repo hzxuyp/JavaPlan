@@ -7,9 +7,15 @@
 声明：整理内容大部分来源于网络，如果内容作者认为侵犯了您的权益，请联系邮箱824418190@qq.com，我会配合处理，谢谢。
 
 ## 实用工具
+  * [Java IDE推荐idea](http://www.jetbrains.com/)
+  * [Sublime和VSCode选一个](https://code.visualstudio.com/)
   * [FeHelper 百度的一个良心工具箱](https://www.baidufe.com/fehelper/)
   * [GHelper 免费上google还行](http://googlehelper.net/)
   * [JSON 个人常用的json格式化工具](https://www.json.cn/)
+  * [Postman 这个基本是必备的吧](https://www.getpostman.com/)
+  * [XShell Windows上这个还是不错的](https://www.netsarang.com/zh/xshell/)
+  * [process 在线的比较方便](https://www.processon.com/)
+  * [Navicat 比mysql官方的好用一点](https://www.navicat.com.cn/)
 
 ## Java
 
