@@ -44,7 +44,7 @@
   * 新手不建议长时间看书，尤其是长篇大论，会很打击积极性，而且进展缓慢；建议看两天语法就尝试写一些demo，甚至代码不理解也没关系，照着抄，先找找手感。
 
 ### 容器集合
-  * [这篇文章对最常用的集合做了初步解释，先混个面熟](https://blog.csdn.net/zhangqunshuai/article/details/80660974)
+  * [这篇文章对最常用的集合做了初步解释，先混个脸熟](https://blog.csdn.net/zhangqunshuai/article/details/80660974)
   * [集合类的整体继承关系，没必要死记，用多了就大概知道关系了](https://blog.csdn.net/feiyanaffection/article/details/81394745)
   * []()
   * []()
