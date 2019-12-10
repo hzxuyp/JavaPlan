@@ -48,7 +48,7 @@
   * [集合类的整体继承关系，没必要死记，用多了就大概知道关系了](https://blog.csdn.net/feiyanaffection/article/details/81394745)
   * []()
   * []()
-  * [更多内容系列](/docs/Java/集合)
+  * [更多内容系列](/docs/Java/容器集合)
 
 ### 并发编程
 
