@@ -36,12 +36,12 @@
 ### 视频教程
   * [阿里巴巴官方Java视频教程](https://edu.aliyun.com/roadmap/java?source=5176.11533457&userCode=yxwoog30&type=copy)
   
+### 编程规范
+  * [阿里巴巴Java编程规范](https://developer.aliyun.com/special/tech-java)  
 
 ### 基础知识
   * [菜鸟教程系列](https://www.runoob.com/java/java-tutorial.html)
 
-### 编程规范
-  * [阿里巴巴Java编程规范](https://developer.aliyun.com/special/tech-java)
 
 ### 容器详解
 
