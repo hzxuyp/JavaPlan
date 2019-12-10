@@ -29,7 +29,7 @@
   
 ## 文档大全
   * [Java API官方文档](https://docs.oracle.com/javase/8/docs/api/)
-  
+  * [前辈总结的一个列表 赞一个](https://github.com/justjavac/free-programming-books-zh_CN)
 
 ## Java
 
