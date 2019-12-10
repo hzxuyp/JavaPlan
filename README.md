@@ -35,6 +35,7 @@
 
 ### 视频教程
   * [阿里巴巴官方Java视频教程](https://edu.aliyun.com/roadmap/java?source=5176.11533457&userCode=yxwoog30&type=copy)
+  * [慕课网有一些非常不错的视频教程](https://www.imooc.com/)
   
 ### 编程规范
   * [阿里巴巴Java编程规范](https://developer.aliyun.com/special/tech-java)  
