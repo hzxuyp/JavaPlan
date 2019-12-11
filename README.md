@@ -47,9 +47,9 @@
 ### 容器集合
   * [这篇文章对最常用的集合做了初步解释，先混个脸熟](https://blog.csdn.net/zhangqunshuai/article/details/80660974)
   * [集合类的整体继承关系，没必要死记，用多了就大概知道关系了](https://blog.csdn.net/feiyanaffection/article/details/81394745)
-  * []()
-  * []()
-  * [更多精品系列...](/docs/Java/容器集合.md)
+  * [List是最重要的数据结构，没有之一](http://www.zwwhnly.com/java/2019/07/29/java-basic-collection-02.html)
+  * [HashMap是非常重要的一种数据结构，必须掌握](https://www.cnblogs.com/lzq198754/p/5780165.html)
+  * [更多精品必看系列...](/docs/Java/容器集合.md)
 
 ### 并发编程
 
