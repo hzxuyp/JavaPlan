@@ -14,6 +14,7 @@
   * [XShell Windows上这个还是不错的](https://www.netsarang.com/zh/xshell/)
   * [process 在线的比较方便](https://www.processon.com/)
   * [Navicat 比mysql官方的好用一点](https://www.navicat.com.cn/)
+  * [协议文档，markdown形式，页面简洁好看](https://www.showdoc.cc)
 
 ## 论坛网站
   * [英语好的，推荐StackOverFlow](http://stackoverflow.com/) 
@@ -101,6 +102,7 @@
 ## 网络编程
  ### 网络协议
    * [妙趣横生的一个系列，配图很有趣，协议入门最佳](https://www.cnblogs.com/vamei/archive/2012/12/05/2802811.html) 
+   * [漫画：什么事HTTPS协议？漫画形式很可爱](https://blog.csdn.net/bjweimengshu/article/details/87706654)
    
  ### 网络编程  
    
@@ -128,5 +130,5 @@
 
 
 ## 面试
-
+  * [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
 
