@@ -115,6 +115,7 @@
    * [漫画：什么事HTTPS协议？漫画形式很可爱](https://blog.csdn.net/bjweimengshu/article/details/87706654)
    * [你应该知道的计算机网络知识](https://mp.weixin.qq.com/s/JVkYjM_C4Gfdbe7U-7of_w)
    * [internet 协议入门](https://mp.weixin.qq.com/s/UJYysKrg3ZHnUWrHSHp36A)
+   * [HTTP协议入门系列](https://www.cnblogs.com/TankXiao/category/415412.html)
    
  ### 网络编程  
    
