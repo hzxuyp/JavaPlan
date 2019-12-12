@@ -68,6 +68,7 @@
   * [一文理解Java虚拟机(内存、垃圾回收、性能优化、面试问题)](https://juejin.im/post/5d200b54f265da1bac40384a)
   * [JVM入门，看这一篇就够了](http://www.ityouknow.com/java.html)
   * [零基础也能学习Java虚拟机](https://www.cnblogs.com/chanshuyi/p/jvm_serial_00_why_learn_jvm.html)
+  * [Tomcat类加载机制（阿里面试题）](https://www.cnblogs.com/aspirant/p/8991830.html)
   * [更多JVM相关内容...]()
 
 ### 源码阅读
