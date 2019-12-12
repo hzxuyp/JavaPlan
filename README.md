@@ -51,6 +51,7 @@
   * [集合类的整体继承关系，没必要死记，用多了就大概知道关系了](https://blog.csdn.net/feiyanaffection/article/details/81394745)
   * [List是最重要的数据结构，没有之一](http://www.zwwhnly.com/java/2019/07/29/java-basic-collection-02.html)
   * [HashMap是非常重要的一种数据结构，必须掌握](https://www.cnblogs.com/lzq198754/p/5780165.html)
+  * [Java 8 容器源码解读系列，进阶大牛必读](http://cmsblogs.com/?tag=集合源码&paged=2)
   * [更多精品必看系列...](/docs/Java/容器集合.md)
 
 ### 并发编程
@@ -58,19 +59,27 @@
   
 
 ### netty
-
+  * [一个不错的系列，您值得拥有](https://www.jianshu.com/p/92c5092c5d3f)
+  * [这篇文章很详细，代码写一遍，入门足矣](https://www.cnblogs.com/jietang/p/5615681.html)
+  * [最透彻的Netty高性能原理和框架解析](https://www.cnblogs.com/imstudy/p/9908791.html)
 
 ### JVM知识
+  * [成为大牛的必经之路，JVM入门系列](http://www.ityouknow.com/java.html)
 
-
+### 源码阅读
+  * [如何阅读Java源码 阅读java的真实体会](https://blog.csdn.net/jianguang_zhu/article/details/52823993)
 
 ### 设计模式
 
 ### Spring
 
 ### Spring Boot
+  * [这应该是网上传播最广的一个入门系列了](http://blog.didispace.com/spring-boot-learning-1x/)
+  * [作为上面的一个补充吧，两个配合着看，入门足够](http://www.ityouknow.com/spring-boot.html)
 
 ### Spring Cloud
+  * [这个也是网络传播很广的一个系列](http://blog.didispace.com/spring-cloud-learning/)
+  * [这个也很不错，相互配合着看](http://www.ityouknow.com/spring-cloud.html)
 
 ### Mybatis
 
@@ -80,7 +89,7 @@
   * [阿里、百度、搜狐等大厂面试侧重点汇总](https://www.cnblogs.com/binyue/p/4015884.html)
   * [阿里巴巴Java面试知识点大全](https://juejin.im/post/5c793a14f265da2db073a6ae)
   * [这个也不错，适合老手重温经典](https://www.cnblogs.com/absfree/p/5568849.html)
-  * [更多收藏不断更新...]()
+  * [更多收藏不断更新...](/docs/Java/面试.md)
 
 ## Linux
 
