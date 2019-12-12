@@ -54,6 +54,8 @@
   * [更多精品必看系列...](/docs/Java/容器集合.md)
 
 ### 并发编程
+  * [并发编程精髓，AQS源码解读三篇，Javadoop精品必读](https://javadoop.com)
+  
 
 ### netty
 
@@ -75,6 +77,10 @@
 
 
 ### Java面试
+  * [阿里、百度、搜狐等大厂面试侧重点汇总](https://www.cnblogs.com/binyue/p/4015884.html)
+  * [阿里巴巴Java面试知识点大全](https://juejin.im/post/5c793a14f265da2db073a6ae)
+  * [这个也不错，适合老手重温经典](https://www.cnblogs.com/absfree/p/5568849.html)
+  * [更多收藏不断更新...]()
 
 ## Linux
 
