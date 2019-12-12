@@ -97,12 +97,24 @@
   * [这个也不错，适合老手重温经典](https://www.cnblogs.com/absfree/p/5568849.html)
   * [更多收藏不断更新...](/docs/Java/面试.md)
 
+## 架构师
+ ### 文章收藏
+   * [从订单业务模块到分布式高可用：美团外卖订单中心的演进之路](https://mp.weixin.qq.com/s/CxXzo1-hveKLqI4nFsSsFg)
+   * [京东资深架构师：高性能高并发服务的瓶颈及突破思路](https://mp.weixin.qq.com/s/7_XE4L0VTfYTyk1lZ3L9Ug)
+   * [每秒订单数25倍提升，蘑菇街怎样跨过海量服务架构的技术藩篱？](https://mp.weixin.qq.com/s/zSeO08HG-BtjGNb9T-JgQA)
+   * [异地多活设计难？其实是你陷入了这四大误区出不来！](https://mp.weixin.qq.com/s/2MR0DTQAbA5hhZYyjUqtmw)
+   * [现代化Web的微服务架构最佳实践全景](https://mp.weixin.qq.com/s/9Q2gs2in06dV3yAn3LVUqg)
+
 ## Linux
+ ### 常用命令
+   * [如何用十条命令在一分钟内检查Linux服务器性能](https://mp.weixin.qq.com/s/Mry0Hj4xq3gnj7HikKi9xA)
 
 ## 网络编程
  ### 网络协议
    * [妙趣横生的一个系列，配图很有趣，协议入门最佳](https://www.cnblogs.com/vamei/archive/2012/12/05/2802811.html) 
    * [漫画：什么事HTTPS协议？漫画形式很可爱](https://blog.csdn.net/bjweimengshu/article/details/87706654)
+   * [你应该知道的计算机网络知识](https://mp.weixin.qq.com/s/JVkYjM_C4Gfdbe7U-7of_w)
+   * [internet 协议入门](https://mp.weixin.qq.com/s/UJYysKrg3ZHnUWrHSHp36A)
    
  ### 网络编程  
    
@@ -110,7 +122,11 @@
    * [浏览器家族的安全反击战](https://mp.weixin.qq.com/s/Rqx0w6yQy6OMTL16BIHhNA)
    * [黑客三兄弟](https://mp.weixin.qq.com/s/z2VHeFNVPq4B4MJYy5pndQ)
    * [黑客三兄弟续](https://mp.weixin.qq.com/s/GtVXZXHtaHEHwLA50z7yig)
-   * [更多安全系列]()
+   * [流量劫持是如何产生的？](https://mp.weixin.qq.com/s/ATwQRYaDKCeLNEP6q4x2nQ)
+   * [SQL注入攻防入门详解](https://mp.weixin.qq.com/s/bnQB7PtYPxqbN4ERge99fQ)
+   * [渗透攻防Web篇-SQL注入攻击](https://mp.weixin.qq.com/s/RAKyvORdJJ3VxuzT3AUndA)
+   * [“不给力啊，老湿！”：RSA加密与破解](https://mp.weixin.qq.com/s/UU-v4JJlM_5LrtKHWHU58A)
+   * [更多安全系列](/docs/网络/安全.md)
 
 ## 数据结构
 
@@ -127,8 +143,10 @@
   * [更多MySql相关知识点汇总...]()
 
 ### Redis
+  ** [通俗讲解：缓存、缓存算法和缓存框架](https://mp.weixin.qq.com/s/_G2a2f89D04weZM04vEVDQ)
 
 
 ## 面试
   * [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
+  * [Java面试题全集](https://mp.weixin.qq.com/s/6pRyBzNANJuBCTm7QlMgPw)
 
