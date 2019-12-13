@@ -92,13 +92,13 @@
   * [这应该是网上传播最广的一个入门系列了](http://blog.didispace.com/spring-boot-learning-1x/)
   * [作为上面的一个补充吧，两个配合着看，入门足够](http://www.ityouknow.com/spring-boot.html)
   
-  * [Spring Boot脚手架大全](/docs/Java/Spring Boot.md)
+  * [Spring Boot脚手架大全](/docs/Java/SpringBoot.md)
 
 ### Spring Cloud
   * [这个也是网络传播很广的一个系列](http://blog.didispace.com/spring-cloud-learning/)
   * [这个也很不错，相互配合着看](http://www.ityouknow.com/spring-cloud.html)
   
-  * [Spring Cloud脚手架大全](/docs/Java/Spring Cloud.md)
+  * [Spring Cloud脚手架大全](/docs/Java/SpringCloud.md)
 
 ### Mybatis
 
