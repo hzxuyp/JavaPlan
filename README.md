@@ -89,6 +89,7 @@
   
 
 ### Spring Boot
+  * [Spring Boot中文文档](https://github.com/DocsHome/springboot)
   * [这应该是网上传播最广的一个入门系列了](http://blog.didispace.com/spring-boot-learning-1x/)
   * [作为上面的一个补充吧，两个配合着看，入门足够](http://www.ityouknow.com/spring-boot.html)
   
