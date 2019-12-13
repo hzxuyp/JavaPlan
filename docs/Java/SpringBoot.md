@@ -47,7 +47,18 @@
   - **地址**：https://github.com/cloudfavorites/favorites-web 
   - **简介**：云收藏是一个使用 Spring Boot 构建的开源网站，这是一个成品项目，个人感觉更适合学习，从中筛选对自己项目有用的东西为自己所有。
   
-
+ ###  X-SpringBoot
+  - **地址**：https://github.com/yzcheng90/X-SpringBoot 
+  - **简介**：X-SpringBoot 是一个轻量级的Java快速开发平台，基于各大开源项目组合而来，用于快速构建中小型API、RESTful API项目。
+  
+ ###  mall
+  - **地址**：https://github.com/macrozheng/mall 
+  - **简介**：mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。。
+  
+ ###  jeecg-boot
+  - **地址**：https://github.com/zhangdaiscott/jeecg-boot 
+  - **简介**：JeecgBoot 是一款基于代码生成器的J2EE快速开发平台！采用前后端分离架构：SpringBoot2.x，Ant Design&Vue，Mybatis-plus。
+  
   
   
     
