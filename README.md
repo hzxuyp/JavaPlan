@@ -144,7 +144,7 @@
   * [更多MySql相关知识点汇总...]()
 
 ### Redis
-  ** [通俗讲解：缓存、缓存算法和缓存框架](https://mp.weixin.qq.com/s/_G2a2f89D04weZM04vEVDQ)
+  * [通俗讲解：缓存、缓存算法和缓存框架](https://mp.weixin.qq.com/s/_G2a2f89D04weZM04vEVDQ)
 
 
 ## 面试
