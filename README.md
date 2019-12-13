@@ -58,7 +58,7 @@
 
 ### 并发编程
   * [并发编程精髓，AQS源码解读三篇，Javadoop精品必读](https://javadoop.com)
-  
+  * [多线程、AQS解读系列，侧重源码解读和原理解析](https://segmentfault.com/a/1190000016058789)
 
 ### netty
   * [一个不错的系列，您值得拥有](https://www.jianshu.com/p/92c5092c5d3f)
@@ -83,6 +83,9 @@
   * [更多设计模式相关内容...]()
 
 ### Spring
+  * [从零开始实现一个简易的Java MVC框架，一定要自己动手实现一遍，受益多多](https://zzzzbw.cn/post/8)
+  * [源码解读，手动实现Spring系列，深入Spring框架工作原理，进阶大牛必备](https://www.cnblogs.com/leeSmall/category/1348229.html)
+  
 
 ### Spring Boot
   * [这应该是网上传播最广的一个入门系列了](http://blog.didispace.com/spring-boot-learning-1x/)
