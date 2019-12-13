@@ -76,6 +76,11 @@
   * [如何阅读Java源码 阅读java的真实体会](https://blog.csdn.net/jianguang_zhu/article/details/52823993)
 
 ### 设计模式
+  * [设计模式思想、原则、总结，一篇搞定](https://www.cnblogs.com/leeSmall/p/10010006.html)
+  * [常用的10种设计模式总结](https://www.jianshu.com/p/61b67ca754a3)
+  * [CSDN上的一个系列，很受用](https://blog.csdn.net/uftjtt/category_7477267.html)
+  * [Java设计模式源码实现](https://www.cnblogs.com/ysw-go/category/813520.html)
+  * [更多设计模式相关内容...]()
 
 ### Spring
 
