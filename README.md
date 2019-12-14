@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/hzxuyp/JavaPlan" target="_blank">
-	<img src="./images/JavaPlan.png" width=""/>
+	<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/logo - 副本.png" width=""/>
 </a>
 </p>
 
