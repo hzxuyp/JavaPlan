@@ -2,7 +2,7 @@
 <img src="./images/JavaPlan.png" width=""/>
 </p>
 
-<h1 align="center">Java 学习/面试指南</h1>
+<h1 align="center">Java 入门、进阶、大牛、架构师、面试指南</h1>
 
 [资源大全整理中...]()
 [GitHub](<https://github.com/hzxuyp/JavaPlan>)
