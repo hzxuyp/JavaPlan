@@ -6,6 +6,6 @@
 
 [资源大全整理中...]()
 [GitHub](<https://github.com/hzxuyp/JavaPlan>)
-[开始阅读](#java)
+[开始阅读](#实用工具)
 
 ![](./images/385b2818dcc1c9aa7352688d26ccc948.jpg)
