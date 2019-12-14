@@ -31,31 +31,31 @@
   - **地址**：<https://github.com/lerry903/RuoYi>   
   - **简介**：基于SpringBoot2.1的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用。
   
-## MyBatis-Spring-Boot
+## MyBatis-Spring-Boot  
   - **地址**：<https://github.com/abel533/MyBatis-Spring-Boot>  
   - **简介**：Spring Boot 集成 MyBatis, 分页插件 PageHelper, 通用 Mapper。
   
-## spring-boot-api-starter
+## spring-boot-api-starter  
   - **地址**：<https://github.com/WongMinHo/spring-boot-api-starter>  
   - **简介**：🚀 一个基于 Spring Boot，快速构建 RESTful API 工程的脚手架，支持多数据源配置、分布式事务。
   
-## springboot-restful-starter
+## springboot-restful-starter  
   - **地址**：<https://github.com/ocubexo/springboot-restful-starter>   
   - **简介**：这是一个基于SpringBoot 2.1.1 RELEASE，用于搭建RESTful API工程的脚手架，只需三分钟你就可以开始编写业务代码，不再烦恼于构建项目与风格统一。
   
-## favorites-web
+## favorites-web  
   - **地址**：<https://github.com/cloudfavorites/favorites-web>  
   - **简介**：云收藏是一个使用 Spring Boot 构建的开源网站，这是一个成品项目，个人感觉更适合学习，从中筛选对自己项目有用的东西为自己所有。
   
-## X-SpringBoot
+## X-SpringBoot  
   - **地址**：<https://github.com/yzcheng90/X-SpringBoot>  
   - **简介**：X-SpringBoot 是一个轻量级的Java快速开发平台，基于各大开源项目组合而来，用于快速构建中小型API、RESTful API项目。
   
-## mall
+## mall  
   - **地址**：https://github.com/macrozheng/mall 
   - **简介**：mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。。
   
-## jeecg-boot
+## jeecg-boot  
   - **地址**：https://github.com/zhangdaiscott/jeecg-boot 
   - **简介**：JeecgBoot 是一款基于代码生成器的J2EE快速开发平台！采用前后端分离架构：SpringBoot2.x，Ant Design&Vue，Mybatis-plus。
   
