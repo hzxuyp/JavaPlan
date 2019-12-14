@@ -3,14 +3,11 @@
 整理过程中，我也会分享一些近些年自己开发和工作过程中的一些感悟、心得和无奈；总归一句话：`养成一颗奋发的平常心`。
 
 **声明**：整理内容大部分来源于网络，如果内容作者认为侵犯了您的权益，请联系邮箱824418190@qq.com，我会配合处理，谢谢。
-
 <p align="center">
 <a href="https://github.com/hzxuyp/JavaPlan" target="_blank">
 	<img src="./images/JavaPlan.png" width=""/>
 </a>
 </p>
-
-
 为了获得更好的阅读体验，在线阅读推荐方式：**<https://hzxuyp.gitee.io/javaplan>**  
 
 ## 实用工具
