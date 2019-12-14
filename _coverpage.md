@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3logo-透明.png" width=""/>
+<img src="./images/JavaPlan.png" width=""/>
 </p>
 
 <h1 align="center">Java 学习/面试指南</h1>
@@ -8,4 +8,4 @@
 [GitHub](<https://github.com/hzxuyp/JavaPlan>)
 [开始阅读](#java)
 
-![](./media/pictures/rostyslav-savchyn-5joK905gcGc-unsplash.jpg)
+![](./images/385b2818dcc1c9aa7352688d26ccc948.jpg)
