@@ -110,7 +110,14 @@
 
 ### Mybatis
 
-
+### 好用工具集
+  * [Hutool是一个小而全的Java工具类库](https://github.com/looly/hutool)
+  * [Google core libraries for Java](https://github.com/google/guava)
+  * [IJPay 让支付触手可及](https://github.com/Javen205/IJPay)
+  * [WxJava - 微信开发 Java SDK（开发工具包）](https://github.com/Wechat-Group/WxJava)
+  * [基于redis的分布式锁组件](https://github.com/kekingcn/spring-boot-klock-starter)
+  * [微信SDK JAVA (公众平台、开放平台、 商户平台、 服务商平台)](https://github.com/liyiorg/weixin-popular)
+  * [A fast JSON parser/generator for Java](https://github.com/alibaba/fastjson)
 
 ### Java面试
   * [阿里、百度、搜狐等大厂面试侧重点汇总](https://www.cnblogs.com/binyue/p/4015884.html)
