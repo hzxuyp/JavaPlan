@@ -55,6 +55,7 @@
   * [另一个简单的Java入门教程，配合上面的系列，入门足够](https://www.cnblogs.com/vamei/archive/2013/03/31/2991531.html)
   * [Java深入系列，注解、类加载器、Synchronized、AQS、类型信息等，绝对不可错过](https://blog.csdn.net/javazejian/article/details/73413292)
   * [这位博主有几篇博客写的相当精彩，包括ThreadLocal、注解、动态代理、JDBC、Listener、Filter等，可以到博主专栏里自己找一下](https://www.zhihu.com/people/huangsunting/posts?page=2)
+  * [田小波的技术博客](http://www.tianxiaobo.com/page/3/)
 
 ### 容器集合
   * [这篇文章对最常用的集合做了初步解释，先混个脸熟](https://blog.csdn.net/zhangqunshuai/article/details/80660974)
@@ -97,6 +98,7 @@
 
 ### Spring Boot
   * [Spring Boot中文文档](https://github.com/DocsHome/springboot)
+  * [springboot2系列技术教程](https://blog.csdn.net/cowbin2012/article/details/85254990)
   * [这应该是网上传播最广的一个入门系列了](http://blog.didispace.com/spring-boot-learning-1x/)
   * [作为上面的一个补充吧，两个配合着看，入门足够](http://www.ityouknow.com/spring-boot.html)
   
