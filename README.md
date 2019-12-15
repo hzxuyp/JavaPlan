@@ -36,6 +36,7 @@
 ## 文档大全
   * [Java API官方文档](https://docs.oracle.com/javase/8/docs/api/)
   * [前辈总结的一个列表 赞一个](https://github.com/justjavac/free-programming-books-zh_CN)
+  * [一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 
 ## Java
 
