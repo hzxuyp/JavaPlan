@@ -182,3 +182,20 @@
   * [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
   * [Java面试题全集](https://mp.weixin.qq.com/s/6pRyBzNANJuBCTm7QlMgPw)
 
+## 经典教程整理
+  * 深入理解计算机系统
+  * Java编程思想
+  * Effective Java
+  * Java 并发编程实战
+  * 深入理解Java虚拟机
+  * 深入分析 Java Web技术内幕
+  * Java 核心技术
+  * Java 高并发程序设计
+  * 高性能 Mysql
+  * Redis设计与实现
+  * UNIX网络编程
+  
+---
+## 公众号
+公众号里会经常分享一些精彩内容，也会整理一些干货资料，例如经典书籍和视频教程等，欢迎关注！
+![公众号](http://img.pic.lingluren.xyz/img/20191216/4ZWn1Tqrcode_for_gh_755bd8776f35_430.jpg)
