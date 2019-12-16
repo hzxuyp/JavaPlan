@@ -5,7 +5,7 @@
 **声明**：整理内容大部分来源于网络，如果内容作者认为侵犯了您的权益，请联系邮箱824418190@qq.com，我会配合处理，谢谢。
 <p align="center">
 <a href="https://github.com/hzxuyp/JavaPlan" target="_blank">
-	<img src="./images/JavaPlan.png" width=""/>
+	<img src="https://i.loli.net/2019/12/16/cGoIJi3Q2L7t8a6.png" width=""/>
 </a>
 </p>
 
